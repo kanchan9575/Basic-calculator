@@ -1,5 +1,6 @@
 Basic Calculator
 
+
 Description:
 
 This project is a simple calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -25,7 +26,8 @@ JavaScript: Implement the calculator's functionality.
 
 
 Getting Started
-Prerequisites
+
+Prerequisites:
 
 Ensure you have a modern web browser to view and use the calculator.
 
@@ -44,7 +46,7 @@ bash
 cd basic-calculator
 
 Usage:
- Open the index.html file in your web browser to start using the calculator.
+ Open the calc.html file in your web browser to start using the calculator.
 
 Contributing:
  Contributions are welcome! Please feel free to submit a pull request or open an issue.
